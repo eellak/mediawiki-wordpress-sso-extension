@@ -12,10 +12,12 @@ http://wordpress.org/plugins/wikiful/
 
 ## TODO
 
-* Automatically check that the .htaccess file of the master Wordpress installation does not interfere, automatically rewrite if necessary.
-* Include instead of proxy (see Wikiful).
+* A centralized installer, from inside WordPress.
+* Automatically check that the .htaccess file of the master WordPress installation does not interfere.
+* Automatically rewrite the .htaccess if necessary.
+* Include wiki base instead of proxy (see Wikiful Plugin).
 * Review additional plugins which could help with the implementation, notably:
-    * A way to have discussion pages held in Wordpress.
-    * A way to integrate the Mediawiki search, existing search plugins.
+    * A way to have discussion pages held in WordPress.
+    * A way to integrate the Mediawiki search.
     * Random pages.
     * etc.
