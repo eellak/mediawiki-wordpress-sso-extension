@@ -15,7 +15,7 @@ http://www.mediawiki.org/wiki/Extension_talk:WPMW
 * A centralized installer, from inside WordPress.
 * Automatically check that the .htaccess file of the master WordPress installation does not interfere.
 * Automatically rewrite the .htaccess if necessary.
-* Include wiki base instead of proxy (see Wikiful Plugin).
+* Include wiki base instead of proxy (see Wikiful Plugin by zingiri).
 * Review additional plugins which could help with the implementation, notably:
     * A way to have discussion pages held in WordPress.
     * A way to integrate the Mediawiki search.
