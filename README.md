@@ -5,7 +5,7 @@ WPMW+
 Wordpress + MediaWiki bridge by Mauro Colella, based on a work by Ciaran Gultniks.
 
 ## Discussion
-http://wordpress.org/plugins/wikiful/
+http://www.mediawiki.org/wiki/Extension_talk:WPMW
 
 ## References
 * Wikiful for Wordpress http://wordpress.org/plugins/wikiful/
