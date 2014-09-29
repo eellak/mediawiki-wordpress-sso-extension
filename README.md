@@ -1,5 +1,7 @@
 # wpmw-plus
 
+Not actively maintained.
+
 WPMW+
 
 Wordpress + MediaWiki bridge by Mauro Colella, based on a work by Ciaran Gultniks.
